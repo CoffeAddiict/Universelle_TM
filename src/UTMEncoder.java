@@ -31,7 +31,7 @@ public class UTMEncoder
     {
         this.byteCode = byteCode;
     }
-    //branch test
+    
     private int counterForZeros(String symbols)
     {
         char[] symbolsArray = symbols.toCharArray();
