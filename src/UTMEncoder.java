@@ -29,6 +29,7 @@ public class UTMEncoder
 
     public UTMEncoder(String byteCode)
     {
+        //test and stuff -> delete later
         this.byteCode = byteCode;
     }
 
